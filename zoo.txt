@@ -1,3 +1,6 @@
 giraffe
 lion
 deer
+hippo
+tiger
+elephant
